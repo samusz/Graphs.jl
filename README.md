@@ -77,7 +77,7 @@ for guidance on development and bug reporting.
 
 JuliaGraphs development subscribes to the [Julia Community Standards](https://julialang.org/community/standards/).
 
-# Citing
+# Citations
 
 We encourage you to cite our work if you have used our libraries, tools or datasets, refer to `CITATION.bib`.
 Starring the repository on GitHub is also appreciated.
